@@ -1,0 +1,16 @@
+.card-content {
+    background-color: rgba(0, 0, 0, 0.5); /* Black with 50% opacity */
+}
+
+.box-border {
+    border: 4px solid white; /* White border */
+}
+
+.box-decoration-slice {
+    background-color: black; /* Black background for the text */
+    padding: 2px; /* Padding for the text */
+}
+
+body{
+    background-color: red;
+}
